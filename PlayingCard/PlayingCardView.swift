@@ -141,9 +141,7 @@ class PlayingCardView: UIView {
             if let cardBackImage = UIImage(named: "cardback", in: Bundle(for: self.classForCoder), compatibleWith: traitCollection) {
                 cardBackImage.draw(in: bounds)
             }
-            
         }
-        
     }
     
     /// Draw pips based on rank and suit
