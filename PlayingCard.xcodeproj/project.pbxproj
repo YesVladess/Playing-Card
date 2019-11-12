@@ -10,6 +10,7 @@
 		5A18F9962310795900589EB9 /* PlayingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A18F9952310795900589EB9 /* PlayingCard.swift */; };
 		5A18F99823107FDC00589EB9 /* PlayingCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A18F99723107FDC00589EB9 /* PlayingCardDeck.swift */; };
 		5A447A5D2331581500EA6A86 /* PlayingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A447A5C2331581500EA6A86 /* PlayingCardView.swift */; };
+		5AA55CC4237A2B4800202903 /* CardBehaviour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA55CC3237A2B4800202903 /* CardBehaviour.swift */; };
 		5AAE3B452310778D0077927C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AAE3B442310778D0077927C /* AppDelegate.swift */; };
 		5AAE3B472310778D0077927C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AAE3B462310778D0077927C /* ViewController.swift */; };
 		5AAE3B4A2310778D0077927C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AAE3B482310778D0077927C /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 		5A18F9952310795900589EB9 /* PlayingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCard.swift; sourceTree = "<group>"; };
 		5A18F99723107FDC00589EB9 /* PlayingCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardDeck.swift; sourceTree = "<group>"; };
 		5A447A5C2331581500EA6A86 /* PlayingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardView.swift; sourceTree = "<group>"; };
+		5AA55CC3237A2B4800202903 /* CardBehaviour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardBehaviour.swift; sourceTree = "<group>"; };
 		5AAE3B412310778D0077927C /* PlayingCard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlayingCard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AAE3B442310778D0077927C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5AAE3B462310778D0077927C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				5AAE3B4B2310778E0077927C /* Assets.xcassets */,
 				5AAE3B502310778E0077927C /* Info.plist */,
 				5A447A5C2331581500EA6A86 /* PlayingCardView.swift */,
+				5AA55CC3237A2B4800202903 /* CardBehaviour.swift */,
 			);
 			path = PlayingCard;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				5A18F9962310795900589EB9 /* PlayingCard.swift in Sources */,
 				5A447A5D2331581500EA6A86 /* PlayingCardView.swift in Sources */,
 				5AAE3B452310778D0077927C /* AppDelegate.swift in Sources */,
+				5AA55CC4237A2B4800202903 /* CardBehaviour.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
